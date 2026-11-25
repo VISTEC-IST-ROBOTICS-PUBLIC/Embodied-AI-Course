@@ -1,4 +1,4 @@
-# Embodied-AI-Course
+# Embodied AI Course
 
 These assignments constitute an integral component of the Embodied AI course. They are specifically designed to ensure that students develop a thorough understanding of the theoretical principles and methodological foundations of Embodied Artificial Intelligence. 
 Furthermore, the assignments aim to enable students to effectively apply the knowledge and skills they have acquired to the implementation of computational tasks and practical real-world applications, thereby reinforcing the connection between theory and practice.
@@ -18,4 +18,4 @@ Task 3: Reinforcement learning (Q/SARSA learning) for state-action mapping: An a
 
 # Bio-inspired Robotics Course
 
-https://github.com/SDUSoftRobotics/DAWN 
+Task 1: Soft robotics "Dual Actuator Wave-Like Navigator (DAWN)" by Assoc. Prof. Saravana Prashanth Murali Babu from SDU Soft Robotics, University of Southern Denmark, see gitbuh https://github.com/SDUSoftRobotics/DAWN 

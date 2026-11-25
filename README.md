@@ -12,3 +12,10 @@ Task 2: Supervised learning (Error-backpropagation learning) for nonlinear funct
 
 Task 3: Reinforcement learning (Q/SARSA learning) for state-action mapping: An application in autonomous obstacle avoidance and decision-making.
 --> Tasks: student_Q_learning_2_wheeled_mobile_robot.ttt
+
+
+
+
+# Bio-inspired Robotics Course
+
+https://github.com/SDUSoftRobotics/DAWN 

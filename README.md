@@ -18,4 +18,4 @@ Task 3: Reinforcement learning (Q/SARSA learning) for state-action mapping: An a
 
 # Bio-inspired Robotics Course
 
-Task 1: Soft robotics "Dual Actuator Wave-Like Navigator (DAWN)" by Assoc. Prof. Saravana Prashanth Murali Babu from SDU Soft Robotics, University of Southern Denmark, see gitbuh https://github.com/SDUSoftRobotics/DAWN 
+Task 1: Soft robotics "Dual Actuator Wave-Like Navigator (DAWN)" by Assoc. Prof. Saravana Prashanth Murali Babu from SDU Soft Robotics, University of Southern Denmark, see gitbuh https://github.com/SDUSoftRobotics/DAWN; https://github.com/Mathias-Jensen/Dual-Actuator-Wave-Like-Navigator
